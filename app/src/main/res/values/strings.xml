@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Proyecto2_Parcial</string>
+
+    <string-array name="profiles_array">
+        <item>Infantil</item>
+        <item>Adolescente</item>
+        <item>Adulto</item>
+    </string-array>
+    <string name="profile_prompt">Seleccione un perfil</string>
+
+    <string-array name="movies_infantil">
+        <item>miraculous</item>
+        <item>pinguinos</item>
+    </string-array>
+
+    <string-array name="movies_adolescente">
+        <item>flash</item>
+        <item>transformers</item>
+    </string-array>
+
+    <string-array name="movies_adulto">
+        <item>lalaland</item>
+        <item>oppenheimer</item>
+    </string-array>
+
+</resources>
